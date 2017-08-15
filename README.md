@@ -1,3 +1,9 @@
+# My Trial is in the list below
+ * [dog_app.ipynb](https://github.com/romth777/dog-project/blob/master/dog_app.ipynb)
+ * [report.html(same as above)](https://github.com/romth777/dog-project/blob/master/report.html)
+
+---
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
